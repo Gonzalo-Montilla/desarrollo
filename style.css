@@ -1,0 +1,22 @@
+.cabecera navegacion { 
+    text-align: center;
+    
+       
+       
+}
+
+.img1 {
+    height: 70px;
+    width: 70px;
+    float: left;
+}
+
+.cabecera {
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+    flex-direction: column;
+}
+
